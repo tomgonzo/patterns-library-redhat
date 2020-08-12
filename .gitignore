@@ -4,6 +4,7 @@ project.lock.json
 .DS_Store
 *.pyc
 .envrc
+.gitignore
 
 # User-specific files
 *.suo

@@ -1,8 +1,0 @@
-[submodule "submodules/goof"]
-	path = submodules/goof
-	url = git@github.com:snyk-partners/goof.git
-	branch = master
-[submodule "submodules/snyk-tekton"]
-	path = submodules/snyk-tekton
-	url = git@github.com:garethr/snyk-tekton.git
-	branch = master
